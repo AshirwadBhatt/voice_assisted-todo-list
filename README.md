@@ -15,11 +15,11 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-##install Flutter
-##clone repositery
-##opne folder
+## install Flutter
+## clone repositery
+## open folder
 cd extrnal
-##download dependencies
+## download dependencies
 flutter pub get
-##run app
+## run app
 flutter run
