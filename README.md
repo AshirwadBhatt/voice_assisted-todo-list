@@ -16,10 +16,22 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## install Flutter
+
 ## clone repositery
+
 ## open folder
+
+```bash
 cd extrnal
+```
 ## download dependencies
+
+```bash
 flutter pub get
+```
+
 ## run app
+
+```bash
 flutter run
+```
