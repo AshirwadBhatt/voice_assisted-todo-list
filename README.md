@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 ## open folder
 
 ```bash
-cd extrnal
+cd voice_assisted-todo-list
 ```
 ## download dependencies
 
